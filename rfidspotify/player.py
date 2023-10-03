@@ -5,9 +5,10 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 from time import sleep
 
-DEVICE_ID="98bb0735e28656bac098d927d410c3138a4b5bca"
-CLIENT_ID="e6adc18f6e4247ab9a0478b66320bd21"
-CLIENT_SECRET="cfa93cc0177943d4a7f4d57cb12096bd"
+#important info of spotify account
+DEVICE_ID="x"
+CLIENT_ID="y"
+CLIENT_SECRET="z"
 
 while True:
     try:
